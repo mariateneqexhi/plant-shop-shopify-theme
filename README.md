@@ -1,0 +1,1 @@
+# plant-shop-shopify-theme
