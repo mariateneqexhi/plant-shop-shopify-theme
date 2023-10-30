@@ -2,7 +2,7 @@
 
 Shopify theme form scratch. 
 
-https://quickstart-93e66129.myshopify.com
+https://quickstart-93e66129.myshopify.com (work in progress)
 
 Password: maria
 
